@@ -1,4 +1,4 @@
-# Ferie · Permessi e Straordinari — v2.1
+# Ferie · Permessi e Straordinari — v2.2
 
 App per GitHub Pages. Avvio contabilità: **1 settembre 2026**.
 
@@ -38,3 +38,6 @@ Previsione ferie, permessi e straordinari al 31 dicembre 2026, con maturazioni f
 
 ## Versione 2.1 – Avvio settembre
 Saldi iniziali riferiti al 1° settembre 2026, prima della maturazione di settembre. Da settembre a dicembre sono conteggiati 4 mesi. Se avevi già inserito un residuo riferito al 30 settembre, aggiorna il valore iniziale nelle Impostazioni per evitare di contare settembre due volte.
+
+## v2.2
+Rimosso il service worker che poteva mantenere vecchie versioni; in Impostazioni il pulsante Verifica aggiornamenti apre la pagina con URL nuovo, senza cancellare i saldi locali.
