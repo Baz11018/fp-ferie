@@ -43,3 +43,9 @@ Saldi iniziali riferiti al 1° settembre 2026, prima della maturazione di settem
 
 ## v2.2
 Rimosso il service worker che poteva mantenere vecchie versioni; in Impostazioni il pulsante Verifica aggiornamenti apre la pagina con URL nuovo, senza cancellare i saldi locali.
+
+## Versione 2.4 – Busta paga
+- Nuova sezione Busta paga con 3 saldi inseriti manualmente per mese e verifica rispetto ai calcoli dell'app.
+- Il confronto è effettuato al termine del mese selezionato; non include utilizzi futuri.
+- Il saldo iniziale è quello di fine settembre 2026, comprensivo della maturazione di settembre. La maturazione successiva è ottobre 2026.
+- I valori dei cedolini sono salvati separatamente nel backup locale.
