@@ -1,4 +1,4 @@
-# Ferie · Permessi e Straordinari — v1.1
+# Ferie · Permessi e Straordinari — v1.2
 
 App per GitHub Pages. Avvio contabilità: **1 ottobre 2026**.
 
@@ -19,3 +19,6 @@ App per GitHub Pages. Avvio contabilità: **1 ottobre 2026**.
 
 ## Note
 I dati sono salvati nel browser del dispositivo (localStorage). Fai periodicamente backup da Impostazioni. L'app non sincronizza automaticamente dispositivi differenti. Se stai aggiornando una precedente versione, mantieni lo stesso indirizzo e repository per conservare i dati già salvati sullo stesso dispositivo.
+
+## Correzione v1.2
+- Risolto il blocco di Safari sul valore intero (es. 2 giorni) per il modulo Usa ore e Aggiungi ore.
