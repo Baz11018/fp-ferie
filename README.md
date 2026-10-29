@@ -1,11 +1,11 @@
-# Ferie · Permessi e Straordinari — v1.9
+# Ferie · Permessi e Straordinari — v2.1
 
-App per GitHub Pages. Avvio contabilità: **1 ottobre 2026**.
+App per GitHub Pages. Avvio contabilità: **1 settembre 2026**.
 
 ## Funzionalità
 - Tre saldi separati: ferie, permessi e straordinari.
 - Maturazione mensile automatica ferie **14,44 h** e permessi **5,67 h**, entrambi personalizzabili in Impostazioni.
-- Saldi iniziali impostabili al 1° ottobre 2026.
+- Saldi iniziali impostabili al 1° settembre 2026.
 - Straordinari inseriti manualmente mese per mese.
 - Utilizzi in ore o giorni (1 giorno = 8 h), scegliendo la categoria da scalare.
 - Permessi futuri già detratti dai saldi e visibili come programmati nello storico.
@@ -31,7 +31,10 @@ Tre saldi compatti sempre visibili in alto durante la compilazione, moduli e pul
 - Cache PWA aggiornata a ferie-v8.
 
 ## Riepilogo annuale 2026
-In Impostazioni inserisci le ore già utilizzate gennaio–settembre (facoltative, default 0). Non vengono scalate dai saldi iniziali. La pagina Statistiche ricostruisce il totale: residuo al 30 settembre + consumo precedente + maturazioni ottobre–dicembre, con progress bar usato/disponibile.
+In Impostazioni inserisci le ore già utilizzate gennaio–agosto (facoltative, default 0). Non vengono scalate dai saldi iniziali. La pagina Statistiche ricostruisce il totale: residuo al 31 agosto + consumo precedente + maturazioni settembre–dicembre, con progress bar usato/disponibile.
 
 ## Versione 2.0 – Pianificazione ferie
 Previsione ferie, permessi e straordinari al 31 dicembre 2026, con maturazioni future e utilizzi programmati. Il modulo Usa ore mostra il saldo previsto per il mese selezionato e permette di prenotare usando anche le ore che matureranno entro quel mese. Nessuna modifica ai dati memorizzati.
+
+## Versione 2.1 – Avvio settembre
+Saldi iniziali riferiti al 1° settembre 2026, prima della maturazione di settembre. Da settembre a dicembre sono conteggiati 4 mesi. Se avevi già inserito un residuo riferito al 30 settembre, aggiorna il valore iniziale nelle Impostazioni per evitare di contare settembre due volte.
