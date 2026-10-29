@@ -1,3 +1,5 @@
+Versione 2.3 — Correzione saldo iniziale: settembre è il riferimento storico; i saldi inseriti includono già le maturazioni fino a ottobre 2026; nuove maturazioni dal 1° novembre 2026.
+
 # Ferie · Permessi e Straordinari — v2.2
 
 App per GitHub Pages. Avvio contabilità: **1 settembre 2026**.
