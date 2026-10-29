@@ -1,0 +1,1 @@
+{"name": "Ferie · Permessi e Straordinari", "short_name": "Ferie", "description": "Gestione ferie, permessi e straordinari", "start_url": "./", "display": "standalone", "background_color": "#f8fbf9", "theme_color": "#f8fbf9", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
